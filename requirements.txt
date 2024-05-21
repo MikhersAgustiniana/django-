@@ -1,0 +1,11 @@
+Django
+psycopg2
+djangorestframework
+drf-yasg
+django-cors-headers
+python-dotenv
+whitenoise
+setuptools
+django-crum
+djangorestframework-api-response
+djangorestframework-simplejwt
